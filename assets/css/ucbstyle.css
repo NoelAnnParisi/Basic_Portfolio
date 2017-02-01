@@ -97,7 +97,7 @@ input{
 }
 
 hr{
- 	margin: 10px 0 30px 0;
+	margin: 10px 0 30px 0;
  	background-color: lightgrey;
  	border: none;
 }
@@ -252,6 +252,9 @@ hr{
 }
 
 #profile_pic{
-	float:left;
-	margin-right: 10px;
+	float: left;
+    margin-right: 10px;
+    margin-bottom: 2px;
+    width: 280px;
+    height: 270px;
 }
