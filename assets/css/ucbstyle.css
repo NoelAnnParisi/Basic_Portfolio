@@ -251,6 +251,10 @@ hr{
     font-size: larger;
 }
 
+.image-left:last-child {
+	margin-bottom: 0;
+}
+
 #profile_pic{
 	float: left;
     margin-right: 10px;
